@@ -1,0 +1,24 @@
+{
+  "name": "javasqript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "styles": "lessc styles.less styles.css"
+ 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaTolunay/javasqript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaTolunay/javasqript/issues"
+  },
+  "homepage": "https://github.com/MariaTolunay/javasqript#readme",
+  "devDependencies": {
+    "less": "^3.0.1"
+  }
+}

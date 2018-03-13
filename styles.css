@@ -1,8 +1,22 @@
 body {
-    display: flex;
-    flex-direction: row;
-    background-color: deepskyblue;
-    width: 700px;
-    margin: 10px auto;
-  }
-
+  display: flex;
+  flex-direction: row;
+  width: 700px;
+  margin: 10px auto;
+}
+img {
+  padding: 20px;
+  background-color: darkorange;
+}
+div {
+  background-color: darkorange;
+}
+.stars .filled {
+  color: black;
+}
+.stars span {
+  color: #b4b4b4;
+  user-select: none;
+  cursor: pointer;
+  font-size: 15px;
+}
